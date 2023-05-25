@@ -59,7 +59,7 @@ Estamos ante un caso que hibrida tecnologías IA de dibujo a través de descripc
 
 ## Conclusiones
 
-Finalmente, quiero hablar sobre como estos dos casos son buenos ejemplos de hibridación, ya que poco a poco se están usando cada vez más las inteligencias artificiales y se unen con aspectos físicos, como hemos podido ver en aquí. Gracias a Manovich y poniéndonos "sus gafas", hemos podido detectar estos casos y analizar por qué son dos casos de hibridación. Estos dos son casos muy parecidos y es por eso que he elegido analizarlos, ya que ambas utilizan las inteligencias artificiales y es curioso, ya que cada vez aparecen más aplicaciones que las utilizan. Otros ejemplos muy parecidos son Dall-e o Craiyon. 
+Finalmente, quiero hablar sobre como estos dos casos son buenos ejemplos de hibridación, ya que poco a poco se están usando cada vez más las inteligencias artificiales y se unen con aspectos físicos, como hemos podido ver en los dos casos que hemos analizado. Gracias a Manovich y poniéndonos "sus gafas", hemos podido detectar estos casos y analizar por qué son dos casos de hibridación. Estos dos son casos muy parecidos y es por eso que he elegido analizarlos, ya que ambas utilizan las inteligencias artificiales y es curioso, ya que cada vez aparecen más aplicaciones que las utilizan. Otros ejemplos muy parecidos son Dall-e o Craiyon. 
 
 En conclusión, esto es solo el inicio de todo el potencial que pueden llegar a tener las inteligencias artificiales y uno de los modos por lo que van a conseguir llegar a su máximo potencial va a ser gracias a la hibridación. Si fusionamos el e-learning, la creación de imágenes, la creación de textos... con las IA solo va a hacer que consigan su meta más rápido.
 
