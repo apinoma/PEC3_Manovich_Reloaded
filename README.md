@@ -18,7 +18,7 @@ La hibridación es un proceso de remediación -de fusión de los medios- que va 
 Como ejemplo de hibridación que nos mostró Manovich en su libro “El software toma el mando” en 2013, tenemos Google Earth. 
 Combina fotografía aérea, imágenes satelitales, gráficos por ordenador en 3D, fotografía fija y otros medios para crear una representación híbrida que los ingenieros de Google llaman «una interfaz en 3D del planeta». (Manovich, 2013)
 
-![Google Earth](Google-Earth-destacada.webp)
+![Google Earth](wonda vr.webp)
 
 
 ## Re-descubriendo la hibridacion: WondaVR
