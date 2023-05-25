@@ -15,8 +15,8 @@ Fecha: 23/05/2023
 
 
 Antes de empezar a analizar los dos casos de hibridación que tenemos aquí, primero tenemos que saber qué es. Si buscamos en el diccionario su definición, nos encontramos con producción de seres híbridos o fusión de dos células de distinta estirpe para dar lugar a otra de características mixtas (biol.), pero para encontrar la definición que nosotros buscamos, tenemos una vez más que ponernos las gafas de Manovich. 
-La hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia. (Ferran Adell, 2014)
-Como ejemplo de hibridación que nos mostró Manovich en su libro “El software toma el mando” en 2013, tenemos Google Earth. Combina fotografía aérea, imágenes satelitales, gráficos por ordenador en 3D, fotografía fija y otros medios para crear una representación híbrida que los ingenieros de Google llaman «una interfaz en 3D del planeta». (Manovich, 2013)
+>La hibridación es un proceso de remediación -de fusión de los medios- que va más allá que la multimedia. (Ferran Adell, 2014)
+Como ejemplo de hibridación que nos mostró Manovich en su libro “El software toma el mando” en 2013, tenemos Google Earth. >Combina fotografía aérea, imágenes satelitales, gráficos por ordenador en 3D, fotografía fija y otros medios para crear una representación híbrida que los ingenieros de Google llaman «una interfaz en 3D del planeta». (Manovich, 2013)
 
 
 ## Re-descubriendo la hibridacion: WondaVR
