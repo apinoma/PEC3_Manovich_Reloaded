@@ -57,7 +57,9 @@ Es por eso, que esta aplicación tiene algo que puede que a los usuarios que la 
 
 Estamos ante un caso que hibrida tecnologías IA de dibujo a través de descripción textual. Vamos a ponernos las gafas de Manovich una vez más para ver por qué esta aplicación es una forma de hibridación en la era digital. Fusiona los medios digitales, que son las inteligencias artificiales y los medios físicos, como son las imágenes que crean. Esta aplicación ha revolucionado cómo se utilizan las inteligencias artificiales, ya que cada vez se van a utilizar más de manera que los usuarios den la información que la IA vaya a editar. Aunque todavía quede tiempo para que estas funcionen de un modo adecuado, cada vez que alguien utiliza esta aplicación ayuda al desarrollo de esta misma.
 
+## Conclusiones
 
+Finalmente, quiero hablar sobre como estos dos casos son buenos ejemplos de hibridación, ya que poco a poco se están usando cada vez más las inteligencias artificiales y se unen con aspectos físicos, como hemos podido ver en aquí. Gracias a Manovich y poniéndonos "sus gafas", hemos podido detectar estos casos y analizar por qué son dos casos de hibridación. Estos dos son casos muy parecidos, ya que ambas utilizan las inteligencias artificiales y es curioso, ya que cada vez aparecen más aplicaciones que utilizan estas.
 
 
 ### Referencias y Bibliografía
