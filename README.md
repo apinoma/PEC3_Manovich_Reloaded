@@ -11,7 +11,6 @@ Fecha: 23/05/2023
 ![Cultura Digital]
 
 
-
 ## Introducción
 
 
