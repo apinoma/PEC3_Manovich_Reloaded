@@ -25,7 +25,7 @@ Combina fotografía aérea, imágenes satelitales, gráficos por ordenador en 3D
 
 El primer caso de hibridación al que nos enfrentamos es Wonda VR. Es una empresa especializada en la creación de realidad virtual interactiva. Ofrece una plataforma que permite a los usuarios crear experiencias inmersivas de realidad virtual sin conocimientos previos de programación o de aspectos técnicos. Los usuarios utilizan esta plataforma para crear experiencias inmersivas en varios ámbitos como el marketing o para entrenar, pero lo más fácil y conmemorativo que ha llamado la atención ha sido el e-learning. Su plataforma es compatible con una variedad inmensa de dispositivos de VR, como teléfonos inteligentes o navegadores web, lo que lo hace disponible para un público más amplio que pueda utilizarlo.
 
-![Wonda VR](Google-Earth-destacada.webp)
+![Wonda VR](wonda_vr.webp)
 
 Un claro de ejemplo de la efectividad de esta aplicación es la de los alumnos de Harvard, ya que crearon con esta inteligencia artificial un murder mystery (definido como la investigación de un asesinato en español) en el que consiguieron que el usuario pueda aprender un idioma en realidad virtual. La creación de esto solamente les costó dos clases de 75 minutos, mientras que si lo hubiesen hecho desde cero, hubiesen tardado meses. Su funcionamiento se basa en la utilización de varias IAs, como el chat GPT para la creación de las frases y Speech AI Model para las voces de los personajes para generar lo que crean y digan cada uno.
 
